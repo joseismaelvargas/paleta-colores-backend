@@ -1,0 +1,13 @@
+# 🎨 Paleta de Colores - Backend
+
+Este proyecto es una API backend para una aplicación de paleta de colores. Permite gestionar colores, crear paletas personalizadas y almacenarlas en una base de datos. Está construido con **Node.js**, **Express** y **Mongoose** para manejar la conexión a una base de datos **MongoDB**.
+
+## 📋 Características
+- CRUD de colores y paletas de colores.
+- Estructura RESTful.
+- Validación de datos usando Mongoose.
+- Manejo de errores y mensajes personalizados.
+- Listo para ser integrado con cualquier frontend.
+
+## 📂 Estructura del Proyecto
+
